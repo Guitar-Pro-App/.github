@@ -1,4 +1,4 @@
-# Guitar Pro – Professional Guitar Composition & Tablature Software for macOS  
+# Guitar Pro – Professional Guitar Composition & Tablature Software
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Guitar_Pro_8_icon.png" width="250"/>
 </div>  
